@@ -21,6 +21,8 @@ ul{
 /* custom class */
 #wrap{
 	border: 20px solid gray;
+	margin: 50px;
+	box-shadow: 5px 5px 1px gray;
 }
 .container{
 	display: block;
